@@ -119,7 +119,7 @@ body {
     /* section :start------------------------------------------- */
     /* section .main */
     section .main{
-        background-image: url(imgs/main/1920_2.jpg);
+        background-image: url(../imgs/main/1920_2.jpg);
         width: 100%; height: 650px;
         background-position: center;
         background-repeat: no-repeat;
